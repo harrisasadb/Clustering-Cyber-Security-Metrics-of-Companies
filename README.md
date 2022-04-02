@@ -6,5 +6,5 @@
 - The clusters formed confirmed biplots from our PCA, which showed that _high number of e-mails and certificate risk metrics were leading to low services risk metrics_ and vice versa, and that _high number of e-mail risk metrics lead to less certificate risk metrics and vice versa_.
 
 ![](https://github.com/harrisasadb/Clustering-Cyber-Security-Metrics-of-Companies/blob/main/kynd%20pics/biplot.PNG)
-![](https://github.com/harrisasadb/Clustering-Cyber-Security-Metrics-of-Companies/blob/main/kynd%20pics/cluster.pdf)
-![](https://github.com/harrisasadb/Clustering-Cyber-Security-Metrics-of-Companies/blob/main/kynd%20pics/cluster2.pdf)
+![](https://github.com/harrisasadb/Clustering-Cyber-Security-Metrics-of-Companies/blob/main/kynd%20pics/2.14.PNG)
+![](https://github.com/harrisasadb/Clustering-Cyber-Security-Metrics-of-Companies/blob/main/kynd%20pics/2.16.PNG)
