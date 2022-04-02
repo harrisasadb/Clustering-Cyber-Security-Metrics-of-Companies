@@ -5,6 +5,6 @@
 - Clustered data using **K-means clustering** and **Hierarchical clustering** to find which features led to more or less cyber risks of any type.
 - The clusters formed confirmed biplots from our PCA, which showed that _high number of e-mails and certificate risk metrics were leading to low services risk metrics_ and vice versa, and that _high number of e-mail risk metrics lead to less certificate risk metrics and vice versa_.
 
-![](https://github.com/harrisasadb/HARRIS-ASAD-PORTFOLIO/blob/gh-pages/images/Rplot22.jpg)
-![](https://github.com/harrisasadb/HARRIS-ASAD-PORTFOLIO/blob/gh-pages/images/Rplot02.jpg)
-![](https://github.com/harrisasadb/HARRIS-ASAD-PORTFOLIO/blob/gh-pages/images/Rplot21.jpg)
+![](https://github.com/harrisasadb/Clustering-Cyber-Security-Metrics-of-Companies/blob/main/kynd%20pics/biplot.PNG)
+![](https://github.com/harrisasadb/Clustering-Cyber-Security-Metrics-of-Companies/blob/main/kynd%20pics/cluster.pdf)
+![](https://github.com/harrisasadb/Clustering-Cyber-Security-Metrics-of-Companies/blob/main/kynd%20pics/cluster2.pdf)
